@@ -4,8 +4,8 @@ if CustomizableWeaponry then
 	AddCSLuaFile("sh_sounds.lua")
 	include("sh_sounds.lua")
 
-	util.PrecacheModel("models/weapons/therambotnic09/v_cw2_tar21.mdl")
-	util.PrecacheModel("models/weapons/therambotnic09/w_cw2_tar21.mdl")
+	util.PrecacheModel("models/weapons/Rambotnic/v_cw2_tar21.mdl")
+	util.PrecacheModel("models/weapons/Rambotnic/w_cw2_tar21.mdl")
 
 	local USE_OLD_WELEMENTS = true
 
@@ -232,19 +232,19 @@ if CustomizableWeaponry then
 	SWEP.RunHoldType = "passive"
 	SWEP.FireModes = {"auto", "semi"}
 	SWEP.Base = "cw_base"
-	SWEP.Category = "CW 2.0 - TheRambotnic09"
+	SWEP.Category = "CW 2.0 - Rambotnic"
 
-	SWEP.Author			= "TheRambotnic09" -- This was actually Dzembi's weapon. Consider this as an "improvement" of his original addon.
+	SWEP.Author			= "Rambotnic" -- This was actually Dzembi's weapon. Consider this as an "improvement" of his original addon.
 	SWEP.Contact		= "Via Steam: http://steamcommunity.com/id/therambotniczeronove/"
 	SWEP.Purpose		= "To kill bad guys. Duh!"
 	SWEP.Instructions	= "Press your primary PEW-PEW key to kill the bad guys."
 
 	SWEP.ViewModelFOV	= 70
 	SWEP.ViewModelFlip	= false
-	SWEP.ViewModel		= "models/weapons/therambotnic09/v_cw2_tar21.mdl"
-	SWEP.WorldModel		= "models/weapons/therambotnic09/w_cw2_tar21.mdl"
+	SWEP.ViewModel		= "models/weapons/Rambotnic/v_cw2_tar21.mdl"
+	SWEP.WorldModel		= "models/weapons/Rambotnic/w_cw2_tar21.mdl"
 	SWEP.DrawTraditionalWorldModel = false
-	SWEP.WM = "models/weapons/therambotnic09/w_cw2_tar21.mdl"
+	SWEP.WM = "models/weapons/Rambotnic/w_cw2_tar21.mdl"
 	SWEP.WMPos = Vector(-0.5, -1, 0)
 	SWEP.WMAng = Vector(0, 0, -180)
 

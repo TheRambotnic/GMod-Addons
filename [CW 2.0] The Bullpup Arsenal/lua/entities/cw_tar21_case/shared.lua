@@ -2,10 +2,10 @@ if CustomizableWeaponry_WS_CASES then
 
 	ENT.Type = "anim"
 	ENT.Base = "cw_ws_case_base"
-	ENT.Category = "TheRambotnic09's Cases"
+	ENT.Category = "Rambotnic's Cases"
 	 
 	ENT.PrintName = "IMI Tavor TAR-21 Case"
-	ENT.Author = "TheRambotnic09"
+	ENT.Author = "Rambotnic"
 	ENT.Contact	= "Via Steam: http://steamcommunity.com/id/therambotniczeronove/"
 	ENT.Purpose = ""
 	ENT.Instructions = ""
@@ -14,7 +14,7 @@ if CustomizableWeaponry_WS_CASES then
 
 	ENT.HealthAmount = 500 
 	ENT.Model = "models/cw2/cases/tar21_case.mdl"
-	ENT.WepWorldModel = "models/weapons/therambotnic09/w_tr09_tar21.mdl"
+	ENT.WepWorldModel = "models/weapons/Rambotnic/w_tr09_tar21.mdl"
 
 	ENT.BodyGroupCoverMain = 1
 	ENT.BodyGroupOpenSet = 1

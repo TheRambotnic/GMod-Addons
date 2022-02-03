@@ -5,7 +5,7 @@ if CustomizableWeaponry then
 	ENT.PrintName = "Bullpup Attachments"
 	ENT.PackageText = "Bullpup Attachments Package"
 	ENT.Category = "CW 2.0 Attachments"
-	ENT.Author = "TheRambotnic09"
+	ENT.Author = "Rambotnic"
 	ENT.Spawnable = true
 	ENT.AdminSpawnable = true 
 

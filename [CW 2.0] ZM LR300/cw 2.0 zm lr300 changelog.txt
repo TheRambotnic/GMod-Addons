@@ -1,6 +1,6 @@
 [h1][b][NEW][/b][/h1]
 [list]
-[*] Added support for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=713125469]CW 2.0 - Cases[/url] mod (To spawn the weapon case, go to the "Entities" tab and then click on the "TheRambotnic09's Cases" category)
+[*] Added support for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=713125469]CW 2.0 - Cases[/url] mod (To spawn the weapon case, go to the "Entities" tab and then click on the "Rambotnic's Cases" category)
 [*] Added my Steam Profile link on the SWEP.Contact line (Not important at all...)
 [*] Added new sounds for the Long Barrel attachment (Thanks to NightmareMutant)
 [*] Added PMAG Gen M3 (it has a 36-round capacity)

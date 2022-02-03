@@ -1,7 +1,7 @@
 ENT.Type = "anim"
 ENT.Base = "cw_ammo_ent_base"
 ENT.PrintName = "5.56x45MM Green Tip Rounds"
-ENT.Author = "TheRambotnic09"
+ENT.Author = "Rambotnic"
 ENT.Spawnable = true
 ENT.AdminSpawnable = true 
 ENT.Category = "CW 2.0 Ammo"

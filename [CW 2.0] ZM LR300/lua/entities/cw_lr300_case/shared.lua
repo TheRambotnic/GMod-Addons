@@ -2,10 +2,10 @@ if CustomizableWeaponry_WS_CASES then
 
 ENT.Type = "anim"
 ENT.Base = "cw_ws_case_base"
-ENT.Category = "TheRambotnic09's Cases"
+ENT.Category = "Rambotnic's Cases"
  
 ENT.PrintName = "ZM LR300 Rifle Case"
-ENT.Author = "TheRambotnic09"
+ENT.Author = "Rambotnic"
 ENT.Contact	= "http://steamcommunity.com/id/therambotniczeronove/"
 ENT.Purpose = ""
 ENT.Instructions = ""
@@ -14,7 +14,7 @@ ENT.AdminSpawnable = true
 
 ENT.HealthAmount = 500 
 ENT.Model = "models/cw2/cases/lr300_case.mdl"
-ENT.WepWorldModel = "models/weapons/therambotnic09/w_cw2_lr300.mdl"
+ENT.WepWorldModel = "models/weapons/Rambotnic/w_cw2_lr300.mdl"
 
 ENT.BodyGroupCoverMain = 1
 ENT.BodyGroupOpenSet = 1

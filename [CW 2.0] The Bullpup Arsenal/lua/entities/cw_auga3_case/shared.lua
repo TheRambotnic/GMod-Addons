@@ -2,10 +2,10 @@ if CustomizableWeaponry_WS_CASES then
 
 	ENT.Type = "anim"
 	ENT.Base = "cw_ws_case_base"
-	ENT.Category = "TheRambotnic09's Cases"
+	ENT.Category = "Rambotnic's Cases"
 	 
 	ENT.PrintName = "Steyr AUG A3 Case"
-	ENT.Author = "TheRambotnic09"
+	ENT.Author = "Rambotnic"
 	ENT.Contact	= "Via Steam: http://steamcommunity.com/id/therambotniczeronove/"
 	ENT.Purpose = ""
 	ENT.Instructions = ""
@@ -14,7 +14,7 @@ if CustomizableWeaponry_WS_CASES then
 
 	ENT.HealthAmount = 500 
 	ENT.Model = "models/cw2/cases/auga3_case.mdl"
-	ENT.WepWorldModel = "models/weapons/therambotnic09/w_cw2_auga3.mdl"
+	ENT.WepWorldModel = "models/weapons/Rambotnic/w_cw2_auga3.mdl"
 
 	ENT.BodyGroupCoverMain = 1
 	ENT.BodyGroupOpenSet = 1
