@@ -1,0 +1,22 @@
+Vertexlitgeneric
+{
+"$basetexture" "models\weapons\v_models\Philibuste_aug_a3\sil_diff"
+"$bumpmap" "models\weapons\v_models\Philibuste_aug_a3\sil_norm"
+"$phongexponenttexture" "models\weapons\v_models\Philibuste_aug_a3\sil_spec"
+"$envmap"                        "env_cubemap"      
+"$envmapfresnel"			     "1"
+"$envmapfresnelminmaxexp"	     "[0 4 .4]"       
+"$envmaptint"                    "[.02 .02 .02]" 
+"$normalmapalphaenvmapmask"      "1"  
+"$phong"                         "1"                      
+"$phongboost"                    "1"            
+"$phongfresnelranges"            "[1 3 6]"              
+"$phongtint"                  "[1 1.2 1.5]"
+"$rimlight" 	 "1"
+"$rimlightboost"	".2"
+"$rimlightexponent" 	"65"	
+"$rimmask"  "1"    
+"$nocull" "1"
+"$halflambert" 	   "1" 
+
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\Philibuste_aug_a3\body"
+	"$bumpmap"	"models\weapons\v_models\Philibuste_aug_a3\body_normal"
+	"$normalmapalphaenvmapmask"     "1"
+
+	"$phong"             "1"
+	"$phongexponent"	"20"
+	"$phongboost"             "1"
+	"$phongfresnelranges"        "[.3 2 5]"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"       "102" 
+	"$rimlightboost"          ".1"
+}

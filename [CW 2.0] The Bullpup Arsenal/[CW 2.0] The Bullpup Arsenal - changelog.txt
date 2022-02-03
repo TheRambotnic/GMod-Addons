@@ -1,0 +1,78 @@
+[h1][b][u]** General Changes **[/u][/b][/h1]
+[h1][NEW][/h1]
+[list]
+	// [*] Added new weapon: [b]OTs-14 Groza[/b]
+	// [*] Added new weapon: [b]SRSS Bulldog[/b]
+	// [*] Added new weapon: [b]Kel-Tec KSG-12[/b]
+[*] Added Bullpup Arsenal's Attachment Package under the "CW 2.0 Attachments" category in the Entities tab
+[/list]
+
+[h1][UPDATED][/h1]
+[list]
+[*] Fixed missing arm sleeves textures (If you have custom sleeve textures installed, this MAY override them)
+[*] Fixed missing icon for the QBZ-97's Weapon Case
+[*] Fixed code indentation on Lua files
+[*] Added adjustable sights (Press F4 when an optic is equipped to adjust its position)
+[*] Added [code]SWEP.AdjustableZoom = true[/code] for the Schmidt & Bender Shortdot Scope, Trijcon ACOG and Leupold MK4 Scope (You can adjust the zoom with your scroll wheel when aiming!)
+[*] Added [code]SWEP:getWorldAttachments()[/code] function on weapons that were ported from Insurgency's Workshop
+[*] Added instructions in the attachment's description on how to use the Grip Pod when equipped
+[*] Added sounds when deploying the Grip Pod
+[*] Decreased movement speed by 2 points when using the Angled Foregrip and Grip Pod attachments
+[*] Decreased movement speed by 3 points when using the Harris Bipod attachment
+[/list]
+
+[h1]=====================================================================================[/h1]
+
+[h1][b][u]Steyr AUG A3[/u][/b][/h1]
+
+[h1][UPDATED][/h1]
+[list]
+[*] Decreased aim accuracy by 3.5%
+[*] Decreased accumulative spread by 8%
+[*] Decreased Extended Magazine's reload speed and handling by 5%
+[*] Decreased movement speed by 2 points when using the Extended Magazine
+[*] Increased moblity by 7%
+[*] Improved weapon's position when sprinting
+[*] Added missing [code]att.isBG = true[/code] boolean in the Extended Magazine's code
+[*] Renamed the Long Barrel attachment to Heavy Barrel ([b]New element name:[/b] auga3_heavybarrel.)
+[/list]
+
+[h1][REMOVED][/h1]
+[list]
+[*] Removed duplicated [code]WMEnt:SetBodygroup[/code] code on Lua files
+[/list]
+
+
+[h1][b][u]IWI Tavor TAR-21[/u][/b][/h1]
+
+[h1][NEW][/h1]
+[list]
+
+[/list]
+
+[h1][UPDATED][/h1]
+[list]
+[*] Renamed the weapon from [b]IMI Tavor TAR-21[/b] to [b]IWI Tavor TAR-21[/b]. (IMI is now commonly known as IWI - Israel Weapon Industries)
+[*] Fixed shell ejection position
+[*] Fixed AN/PEQ-15's laser beam position
+[*] Increased hip spread by 2%
+[*] Decreased aim accuracy by 7.5%
+[*] Decreased moblity by 7%
+[*] Improved weapon's position when sprinting
+[/list]
+
+
+[h1][b][u]QBZ-97[/u][/b][/h1]
+
+[h1][NEW][/h1]
+[list]
+	// [*] Added EoTech 3x Magnifier Scope
+[/list]
+
+[h1][UPDATED][/h1]
+[list]
+[*] Decreased FOV per shot by 70%
+[*] Decreased aim accuracy by 4.5%
+[*] Decreased moblity by 4%
+[*] Improved weapon's position when sprinting
+[/list]

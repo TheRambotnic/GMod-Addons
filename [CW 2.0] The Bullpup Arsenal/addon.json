@@ -1,0 +1,6 @@
+{
+	"title" : "[CW 2.0] The Bullpup Arsenal",
+	"type" : "Weapon",
+	"tags" : [ "roleplay", "fun" ],
+	"ignore" : ["*.psd", "*.vcpro", "*.svn"]
+}

@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\attachments\grip_pod\grip_pod_col"
+	"$bumpmap" 		"models\attachments\grip_pod\grip_pod_n"
+
+	"$envmap"			"env_cubemap"
+	"$envmapfresnel" 			"1"
+	"$envmapFresnelMinMaxExp"		"[0 .4 1]"
+	"$phongtint"   			"[.18 .19 .2]"
+	"$envmaptint"   			"[.02 .02 .02]"
+	"$normalmapalphaenvmapmask" 	"1"
+ 	"$phong" 			"1"
+
+	"$phongboost" 			"2"
+	"$phongfresnelranges"		"[7 4.5 9]"
+	"$phongalbedotint" 			"1"
+        "$phongalbedoboost" "10"
+	"$rimlight"     "1"
+	"$rimlightexponent"   "30" 
+	"$rimlightboost"   "1"
+	"$rimmask"      "1"
+		$ambientocclusion			1 
+
+
+}
