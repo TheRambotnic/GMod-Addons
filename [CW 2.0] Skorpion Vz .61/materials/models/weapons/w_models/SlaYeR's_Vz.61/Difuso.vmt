@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\weapons\v_models\SlaYeR's_Vz.61/Diffuse"
+	"$bumpmap" "models\weapons\v_models\SlaYeR's_Vz.61\Normal"
+	"$nocull" "1"
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" 		"1"
+	"$phongexponent" 	"40"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[1 2 5]"
+	"$phongalbedotint" "1"
+}

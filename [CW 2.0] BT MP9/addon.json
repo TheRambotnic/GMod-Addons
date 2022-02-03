@@ -1,0 +1,7 @@
+{
+"title" : "[CW 2.0] BT MP9",
+"type" : "Weapon",
+"tags" : [ "roleplay", "fun" ],
+"ignore" :
+["*.psd","*.vcpro","*.svn"]
+}
