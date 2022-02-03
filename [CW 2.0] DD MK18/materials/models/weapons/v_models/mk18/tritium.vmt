@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/mk18/tritium"
+	"$bumpmap" "models/weapons/v_models/mk18/tritium_n"
+	"$selfillum" 1
+}

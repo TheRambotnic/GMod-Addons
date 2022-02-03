@@ -1,0 +1,22 @@
+[h1][b][NEW][/b][/h1]
+[list]
+[*] Added [code]function SWEP:RenderTargetFunc()[/code] which changes the Barska Electro Sight and DBAL-A2 Laser, to a Sci-Fi texture when using the Futuristic.O! Skin
+[*] Added support for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=486217238]Mag System[/url] addon
+	// [*] Added support for the 3x Magnifier Scope when using the Sightmark Sure Shot Reflex Sight
+[/list]
+
+[h1][b][UPDATED][/b][/h1]
+[list]
+	// [*] Fixed the weapon case spawning sideways
+[*] Fixed a glitch where the Tritium Sights would appear floating when using the Trijicon ACOG and Tasco Red Dot sights
+[*] Fixed muzzle velocity for those who use physical bullets
+[*] Improved finger positioning on the left hand when using the M203 Grenade Launcher
+[*] Heavy Stock now decreases deploy speed by 10%
+[*] Increased aim accuracy by 0.5%
+[*] Increased recoil by 2%
+[*] Increased mobility by 3%
+[/list]
+
+[h1][b][REMOVED][/b][/h1]
+[list]
+[*] White Snow's, Katka's and KnifeKitty's ACOG attachments are no longer included. Only the default model is available

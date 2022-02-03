@@ -1,0 +1,7 @@
+- Recompile the model and make changes as necessary
+- Make sure the idle position snaps back properly after reloading and deploying the weapon
+	- If it DOESN'T: make realignments to the sights' positions
+	- If it DOES: leave everything as it is
+
+- Ask XvxM4thersxvX for the previous weapon stats before making balancing updates
+- Most importantly: ACTUALLY update the god damn weapon after it's been on hold for 2 fucking years
