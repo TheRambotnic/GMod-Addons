@@ -1,0 +1,31 @@
+[h1][b][NEW][/b][/h1]
+[list]
+[*] Added support for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=713125469]CW 2.0 - Cases[/url] mod (To spawn the weapon case, go to the "Entities" tab and then click on the "TheRambotnic09's Cases" category)
+[*] Added my Steam Profile link on the SWEP.Contact line (Not important at all...)
+[*] Added new sounds for the Long Barrel attachment (Thanks to NightmareMutant)
+[*] Added PMAG Gen M3 (it has a 36-round capacity)
+[*] Added Assault Stock
+[*] Added a custom 5.56x45MM Green Tip caliber entity. Now, when using Green Tip rounds, it will display "5.56x45MM Green Tip" on the Heads-Up Display (You MUST pick up ammo after selecting it!)
+[*] Added Tan and Green textures for the Assault Stock attachment (Thanks to Niggarto el Negro)
+[*] Added Marpshyr (Sci-Fi) textures for the Quad-Stack Magazine, PMAG Gen M3, Assault Stock and EXT RIS Receiver attachments (Thanks to Niggarto el Negro)
+[*] Added world models for every attachment
+[*] Added an IndividualThink() function, that decreases the movement scale when walking while aiming
+[*] Added an util.PrecacheModel function that makes the weapon load faster when spawning it for the first time (May take longer to load the game)
+[*] Added attachment dependency for DBAL-A2 Laser (Now it can only be used when the Sci-Fi skin is active)
+[i](The reason why I did this, is because shotgundiplomat1993 didn't like the idea of the Sci-Fi Suppressor being the only attachment that can be unlocked with the Sci-Fi skin. I wanted to make the Holographic Sight to be restricted, but Niggarto didn't like the idea, so I did that to the DBAL laser, since it looks very Sci-Fi-ish)[/i]
+[/list]
+
+[h1][b][UPDATED][/b][/h1]
+[list]
+[*] Decreased Long Barrel handling multiplier by 5%
+[*] Decreased damage by 2%
+[*] Decreased recoil by 2%
+[*] Increased accumulative spread by 3%
+[*] Increased spread cooldown by 3%
+[/list]
+
+[h1][b][REMOVED][/b][/h1]
+[list]
+[*] White Snow's, KnifeKitty's and Katka's ACOG attachments are no longer included
+	//[*] Katka's CSGO 556 Scope is no longer included
+[/list]

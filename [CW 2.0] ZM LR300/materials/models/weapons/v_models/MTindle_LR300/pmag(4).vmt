@@ -1,0 +1,51 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\weapons\v_models\MTindle_LR300\Pmag(4)"
+	"$bumpmap"		"models\weapons\v_models\MTindle_LR300\Pmag_norm"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.035 0.025 0.025]"
+
+	"$phong"     "1"
+	"$phongexponent"  "55"
+	"$phongboost"   "1.1"
+	"$phongfresnelranges"      "[0.5 1 2]"
+	"$phongtint"	"[.85 .8 1]"
+
+	"$rimlight"	"1"
+	"$rimlightboost"	".2"
+	"$rimlightexponent"	"70"	
+
+	"$sine"	"0"
+	"$selfillum"	"1"
+
+	"Proxies"
+
+	{
+	"Sine"
+	{
+		sineperiod 5
+		sinemin .25
+		sinemax 2
+		resultVar $sine
+	}
+
+	"Equals"
+	{
+		srcVar1 $sine
+		resultVar "$selfillumtint[1]"
+	}
+
+	"Equals"
+	{
+		srcVar1 $sine
+		resultVar "$selfillumtint[2]"
+	}
+
+	"Equals"
+	{
+		srcVar1 $sine
+		resultVar "$selfillumtint[0]"
+	}
+}
